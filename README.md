@@ -1,4 +1,4 @@
-# solaris_mobile_app
+# Bolt_mobile App
 
 A new Flutter project.
 
